@@ -6,3 +6,9 @@
     background-image: url("firefox.png") !important;
   }
 }
+
+@-moz-document url("about:privatebrowsing"){
+  .logo-and-wordmark .logo{
+    background-image: url("firefox-private.png") !important;
+  }
+}
