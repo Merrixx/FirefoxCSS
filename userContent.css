@@ -1,0 +1,8 @@
+*{
+    scrollbar-width: 3px !important;
+}
+@-moz-document url("about:home"), url("about:newtab"){
+  .search-wrapper .logo-and-wordmark .logo{
+    background-image: url("firefox.png") !important;
+  }
+}
