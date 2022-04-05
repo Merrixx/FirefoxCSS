@@ -1,6 +1,7 @@
 # FirefoxCSS
 
-My FirefoxCss Settings for the optimal clean build. Most Settings from: https://github.com/akshat46/FlyingFox
+My FirefoxCss Settings for the optimal clean build.
+Credits: https://github.com/akshat46/FlyingFox
 
 
 ### How to Use
